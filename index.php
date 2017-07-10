@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <html>
-	<head><title>A Little About Alex</title></head>
+	<head><title>A Little About Alex</title>
+	<link rel="stlyesheet" type="text/css" href="style.css"
+	</head>
 		<body>
 			<p>
 				This is, sadly, me. <br><img src="images/alex.jpg" alt="Alex"><br>

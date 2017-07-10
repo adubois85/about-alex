@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head><title>A Little About Alex</title>
-	<link rel="stlyesheet" type="text/css" href="style.css"
+	<link rel="stlyesheet" type="text/css" href="style.css">
 	</head>
 		<body>
 			<p>

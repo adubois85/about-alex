@@ -9,7 +9,7 @@
 			</p>
 			<p>
 				While I was born in New Mexico, I have spent the better part of my life in California.  While I still
-				lived there, I gradatuated from K-12 and eventually found my way into the University of California,
+				lived there, I graduated from K-12 and eventually found my way into the University of California,
 				Irvine.  In spite of myself, I managed to earn double bachelors' of arts in psychology and studio arts.
 				After a number missteps and failures, I found myself stuck in New Mexico.  But that was then, and this is
 				now; and now is the time to move up and move on.

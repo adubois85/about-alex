@@ -45,7 +45,8 @@
 
 			<h2>Elevator pitch</h2>
 				<p>
-					Hello, my name is Alex DuBois.
+					Hello, my name is Alex DuBois.  I develop video games that create memorable and enjoyable experiences.
+					I work primarily in C++ and the Unity engine.  Do you like to playing video games?
 				</p>
 	</body>
 </html>

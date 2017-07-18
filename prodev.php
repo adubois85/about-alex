@@ -26,14 +26,17 @@
 		<header>Golden Circles</header>
 			<h1>Main Golden Circle</h1>
 			<ul>
-				<li>Why: </li>
-				<li>How: </li>
-				<li>What: </li>
+				<li>Why: Create tools to reorganize and display data</li>
+				<li>How: Through my own coding skills and readily available toolsets</li>
+				<li>What: Develop GIS software</li>
 			</ul>
 
 			<h2>Elevator Pitch</h2>
 				<p>
-					Hello, my name is Alex DuBois.
+					Hello, my name is Alex DuBois.  I develop and maintain GIS software to enable others to more easily
+					orgainze, reorganize, and analyze large sets of data, particularly with relation to geographic
+					information, so they may more easily discover patterns in them.  I work primarily in Javascript and
+					use ESRI's mapping tools to achieve results.  Are you interested in mapping data?
 				</p>
 
 			<h1>Alternate Golden Circle</h1>

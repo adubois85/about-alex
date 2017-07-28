@@ -54,5 +54,12 @@
 					Hello, my name is Alex DuBois.  I develop video games that create memorable and enjoyable experiences.
 					I work primarily in C++ and the Unity engine.  Do you like to playing video games?
 				</p>
+
+			<h2>Resume and Social Media</h2>
+				<ul>
+					<li><a href="https://www.linkedin.com/in/alexander-dubois-5366b5143/">My Linkedin profile.</a> </li>
+					<li><a href="https://twitter.com/amdubious">My Twitter handle (for now).</a> </li>
+					<li><a href="other/adubois_resume.pdf">My resume as of July.</li>
+				</ul>
 	</body>
 </html>

@@ -6,3 +6,21 @@ img {
 	width:	400px;
 	height: auto;
 }
+
+header {
+	font-family: "Times New Roman", Serif;
+	font-size: 2em;
+	font-style: italic;
+}
+
+a:link {
+	color: yellowgreen;
+}
+
+a:visited {
+	color: darkorange;
+}
+
+#buddy-name {
+	text-decoration: line-through;
+}

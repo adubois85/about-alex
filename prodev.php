@@ -24,7 +24,7 @@
 				<li>Can be a bit slow at the start of something new, but pick-up quickly from there</li>
 			</ol>
 
-			<h2>My career buddy is <span id="buddy-name">Augustina</span>Steve.</h2>
+			<h2>My career buddy is <span id="buddy-name">Augustina</span> Steve.</h2>
 
 		<header>Golden Circles</header>
 			<h1>Main Golden Circle</h1>

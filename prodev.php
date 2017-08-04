@@ -80,11 +80,17 @@
 					opinion than Dinn.
 				</p>
 
-			<h2>Resume and Social Media</h2>
+			<h2>Social Media</h2>
 				<ul>
 					<li><a href="https://www.linkedin.com/in/alexander-dubois-5366b5143/">My Linkedin profile.</a> </li>
 					<li><a href="https://twitter.com/amdubious">My Twitter handle (for now).</a> </li>
-					<li><a href="other/adubois_resume.pdf">My resume as of July.</li>
 				</ul>
+
+			<h2>Resumés</h2>
+				<ul>
+					<li><a href="other/adubois_resume.pdf">My resume as of July.</li>
+					<li><a href="other/adubois_resume_rev1.pdf">The first revision of my resumé.</li>
+				</ul>
+
 	</body>
 </html>

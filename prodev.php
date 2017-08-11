@@ -106,6 +106,7 @@
 				<ul>
 					<li><a href="other/adubois_resume.pdf">My resume as of July.</li>
 					<li><a href="other/adubois_resume_rev1.pdf">The first revision of my resumé.</li>
+					<li><a href="other/adubois-resume-rev2.pdf"> The second revision of my resumé.</li>
 				</ul>
 
 	</body>

@@ -80,6 +80,22 @@
 					opinion than Dinn.
 				</p>
 
+			<header>Interview Questions</header>
+				<h1>1. What are internal and external factors keeping you from achieving your goal?</h1>
+					<p>
+						Being stuck in this state, for one.  It is also emotionally draining being constantly reminded of your inability to change things.  I also have trouble staying focused and properly managing my time.
+
+					</p>
+				<h1>2.  How do you personally create value for others?</h1>
+					<p>
+						I create value by completing the tasks given to me; If I see a problem that is outside of my scope but I know I can help solve, I often will.
+					</p>
+				<h1>3. Has anyone ever told you that you have potential professionally?  Do you believe it?  Why or why
+					not?</h1>
+					<p>
+						I don’t recall anyone ever saying that to me directly.  However, the absence of evidence is not evidence of absence—it is possible that people have thought that about me but never mentioned it.  That said, I would be skeptical if somebody did tell me that.  Not to say they’re wrong, but I don’t really see some exceptional value in the work I do versus others.
+					</p>
+
 			<h2>Social Media</h2>
 				<ul>
 					<li><a href="https://www.linkedin.com/in/alexander-dubois-5366b5143/">My Linkedin profile.</a> </li>

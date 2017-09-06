@@ -117,6 +117,7 @@
 					vision I originally had for the project
 				</p>
 		<a href="https://bootcamp-coders.cnm.edu/~adubois2/alexander-dubois/public_html/">My PWP as deployed on the CNM servers.</a>
+		<a href="https://amdubois.com">My PWP as deployed to my own domain name.</a>
 
 	</body>
 </html>
